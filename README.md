@@ -6,7 +6,7 @@ transform raw job listing data into meaningful insights using data preprocessing
   •	Microsoft Excel was used for data cleaning and preparation, while Power BI was used to build an interactive dashboard that helps users explore patterns and insights in the data science job landscape.
 3. Tool Used
   •	Microsoft Excel – Data cleaning and preprocessing
-  •	Power BI – Data modelling, DAX measures, and interactive visualization
+  •	Power BI – Data modeling, DAX measures, and interactive visualization
 4. Dataset
   •	Source: Uncleaned_DS_jobs.csv 
   •	Data contains: Index, Job Title, Minimum Salary, Maximum Salary, Average Salary, Company Name, Rating, Location, Headquarters, Employee Size, Founded, Type of Ownership, Industry, Sector, Revenue, Competitors.
